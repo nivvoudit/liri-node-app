@@ -1,0 +1,17 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "This is an NPM demonstration...I think",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "well this is weird"
+  ],
+  "author": "N.O",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
