@@ -37,7 +37,7 @@ if(argument === "movie-this"){
         console.log(body);
 
         }else{
-            request("http://www.omdbapi.com/?t=dr+strange+&y=&plot=short&r=json&tomatoes=true",function(error, response,body){
+            request("http://www.omdbapi.com/?t=mr+nobody+&y=&plot=short&r=json&tomatoes=true",function(error, response,body){
                 console.log(body);
 
             })
@@ -64,7 +64,7 @@ if(argument === "spotify-this-song"){
                 }
             }
         }else{
-            spotify.search({ type: 'track', query: "Muscle Museum"}, function(err, data){
+            spotify.search({ type: 'track', query: "I want it that way"}, function(err, data){
                 var data = data.tracks.items;
                 console.log(data[0].name); //song track name
                 console.log(data[0].album.href); //url
