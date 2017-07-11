@@ -1,0 +1,37 @@
+Argument: my-tweets. Movie or Song Title: undefined. Movie or Song info: undefined.Argument: spotify-this-song. Movie or Song Title: Spice. Movie or Song info: Girls.Argument: my-tweets. Movie or Song Title: undefined. Movie or Song info: undefined.Argument: spotify-this-song. Movie or Song Title: undefined. Movie or Song info: undefined.Argument: my-tweets. Movie or Song Title: undefined. Movie or Song info: undefined.Argument: my-tweets. Movie or Song Title: undefined. Movie or Song info: undefined.
+----------------------------
+The last 5 tweets for @nivvoudit are:
+1. "It was character that got us out of bed, commitment that moved us into action, and discipline that enabled us to follow through." -Z.Ziglar
+tweeted on Tue Jul 11 19:09:49 +0000 2017
+2. "If you want to be tougher mentally, it is simple: Be tougher. Don't meditate on it."
+- Jocko Willink, "Extreme Ownership"
+tweeted on Tue Jul 11 19:03:55 +0000 2017
+3. "Discipline = Freedom"
+- Jocko Willink, "Extreme Ownership"
+tweeted on Tue Jul 11 19:02:22 +0000 2017
+4. "You must own everything in your world. There is no one else to blame."
+- Jocko Willink, "Extreme Ownership"
+tweeted on Tue Jul 11 19:01:22 +0000 2017
+5. "Suffer the pain of discipline or the pain of regret."
+tweeted on Thu Feb 09 21:34:27 +0000 2017
+----------------------------
+doing what it says
+----------------------------
+
+----------------------------
+The last 5 tweets for @nivvoudit are:
+1. "It was character that got us out of bed, commitment that moved us into action, and discipline that enabled us to follow through." -Z.Ziglar
+tweeted on Tue Jul 11 19:09:49 +0000 2017
+2. "If you want to be tougher mentally, it is simple: Be tougher. Don't meditate on it."
+- Jocko Willink, "Extreme Ownership"
+tweeted on Tue Jul 11 19:03:55 +0000 2017
+3. "Discipline = Freedom"
+- Jocko Willink, "Extreme Ownership"
+tweeted on Tue Jul 11 19:02:22 +0000 2017
+4. "You must own everything in your world. There is no one else to blame."
+- Jocko Willink, "Extreme Ownership"
+tweeted on Tue Jul 11 19:01:22 +0000 2017
+5. "Suffer the pain of discipline or the pain of regret."
+tweeted on Thu Feb 09 21:34:27 +0000 2017
+
+Unfortunately, something has gone wrong.

@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
   "name": "npm_demo",
   "version": "1.0.0",
   "description": "This is an NPM demonstration...I think",
@@ -13,5 +14,31 @@
   "license": "ISC",
   "dependencies": {
     "twit": "^2.2.5"
+=======
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "for homework 8",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nivvoudit/liri-node-app.git"
+  },
+  "author": "Nivv Oudit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nivvoudit/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/nivvoudit/liri-node-app#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "node-spotify-api": "^1.0.5",
+    "request": "^2.81.0",
+    "spotify": "^0.3.0",
+    "spotify-web-api-node": "^2.4.0",
+    "twitter": "^1.7.0"
+>>>>>>> Stashed changes
   }
 }
